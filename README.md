@@ -5,9 +5,11 @@
 <br>
 ![image](https://github.com/user-attachments/assets/78970226-371c-4a13-bace-02df1137ba29)
 <br>
-![image](https://github.com/user-attachments/assets/68f72f2e-2bcd-4c93-aadf-8e64121aa80f)
+-Test api thêm Khách Hàng
 <br>
 ![image](https://github.com/user-attachments/assets/42513753-1f36-4ac9-9948-a10c2031fba6)
+<br>
+-Test api lấy tất cả khách hàng
 <br>
 ![image](https://github.com/user-attachments/assets/db0c37aa-d118-4c9b-9fc6-9d5dc7061c17)
 
