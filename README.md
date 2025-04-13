@@ -13,6 +13,8 @@
 <br>
 ![image](https://github.com/user-attachments/assets/db0c37aa-d118-4c9b-9fc6-9d5dc7061c17)
 <br>
+Khai báo services trên Eureka thành công
+<br>
 ![image](https://github.com/user-attachments/assets/41a44e11-c455-4f5b-ad67-27f1d3c596fc)
 
 
