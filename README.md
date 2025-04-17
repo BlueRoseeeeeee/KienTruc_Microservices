@@ -11,6 +11,13 @@
 ![image](https://github.com/user-attachments/assets/e009d0fb-fa76-4900-b927-0672d339b84b)
 
 <br>
+- Test thêm khách hàng
+<br>
+
+![image](https://github.com/user-attachments/assets/6f49fd7d-b4a1-49c0-9967-a2b70da7140b)
+
+<br>
+
 
 
 
