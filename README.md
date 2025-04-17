@@ -23,6 +23,14 @@
   <br>
   
   ![image](https://github.com/user-attachments/assets/c2483af8-b99d-4ddc-a516-faea3e68d447)
+  
+<br>
+  - Lấy tất cả khách hàng
+  <br>
+  
+  ![image](https://github.com/user-attachments/assets/5b87f4cf-65f4-4173-9913-bb360f1ab299)
+
+    
 
 
 
