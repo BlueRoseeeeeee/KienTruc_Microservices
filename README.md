@@ -36,6 +36,12 @@
   <br>
   
   ![image](https://github.com/user-attachments/assets/5b87f4cf-65f4-4173-9913-bb360f1ab299)
+<br>
+  - Payment (Tuần 7)
+<br>
+![image](https://github.com/user-attachments/assets/f3e13ffe-6d79-4f63-b71a-11f174b70821)
+
+    
 
     
 
